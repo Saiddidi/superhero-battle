@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Superman",
+    "publisher": "DC Comics",
+    "alignment": "good",
+    "powerstats": {
+      "strength": 100, "speed": 100, "power": 100,
+      "durability": 100, "combat": 85, "intelligence": 94
+    }
+  },
+  {
+    "id": 2,
+    "name": "Batman",
+    "publisher": "DC Comics",
+    "alignment": "good",
+    "powerstats": {
+      "strength": 26, "speed": 27, "power": 47,
+      "durability": 50, "combat": 100, "intelligence": 100
+    }
+  },
+  {
+    "id": 3,
+    "name": "Wonder Woman",
+    "publisher": "DC Comics",
+    "alignment": "good",
+    "powerstats": {
+      "strength": 100, "speed": 79, "power": 100,
+      "durability": 100, "combat": 100, "intelligence": 88
+    }
+  },
+  {
+    "id": 4,
+    "name": "Spider-Man",
+    "publisher": "Marvel Comics",
+    "alignment": "good",
+    "powerstats": {
+      "strength": 55, "speed": 67, "power": 74,
+      "durability": 75, "combat": 90, "intelligence": 90
+    }
+  },
+  {
+    "id": 5,
+    "name": "Iron Man",
+    "publisher": "Marvel Comics",
+    "alignment": "good",
+    "powerstats": {
+      "strength": 85, "speed": 58, "power": 100,
+      "durability": 85, "combat": 64, "intelligence": 100
+    }
+  },
+  {
+    "id": 6,
+    "name": "Thor",
+    "publisher": "Marvel Comics",
+    "alignment": "good",
+    "powerstats": {
+      "strength": 100, "speed": 92, "power": 100,
+      "durability": 100, "combat": 100, "intelligence": 69
+    }
+  },
+  {
+    "id": 7,
+    "name": "Thanos",
+    "publisher": "Marvel Comics",
+    "alignment": "bad",
+    "powerstats": {
+      "strength": 100, "speed": 33, "power": 100,
+      "durability": 100, "combat": 100, "intelligence": 100
+    }
+  },
+  {
+    "id": 8,
+    "name": "Joker",
+    "publisher": "DC Comics",
+    "alignment": "bad",
+    "powerstats": {
+      "strength": 10, "speed": 12, "power": 25,
+      "durability": 32, "combat": 70, "intelligence": 90
+    }
+  },
+  {
+    "id": 9,
+    "name": "Goku",
+    "publisher": "Dragon Ball",
+    "alignment": "good",
+    "powerstats": {
+      "strength": 100, "speed": 100, "power": 100,
+      "durability": 100, "combat": 100, "intelligence": 60
+    }
+  },
+  {
+    "id": 10,
+    "name": "Naruto",
+    "publisher": "Naruto",
+    "alignment": "good",
+    "powerstats": {
+      "strength": 85, "speed": 90, "power": 95,
+      "durability": 90, "combat": 95, "intelligence": 70
+    }
+  }
+]
